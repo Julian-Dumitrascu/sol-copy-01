@@ -1,21 +1,22 @@
 {
-    "title": "Stackbit Fjord Theme",
-    "palette": "yellow",
-    "header": {
-        "title": "Julian Dumitrascu",
-        "tagline": "Minimal and clean blog theme",
-        "bg_img": "images/header-bg.jpg",
-        "has_nav": true,
-        "has_social": true
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "sol global management",
+  "palette": "green",
+  "header": {
+    "title": "Julian Dumitrascu",
+    "tagline": "",
+    "logo_img": "/images/sol.jpg",
+    "bg_img": "images/header-bg.jpg",
+    "has_nav": true,
+    "has_social": true
+  },
+  "footer": {
+    "content": "&copy; All rights reserved.",
+    "links": [
+      {
+        "text": "Made with Stackbit",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ]
+  }
 }
